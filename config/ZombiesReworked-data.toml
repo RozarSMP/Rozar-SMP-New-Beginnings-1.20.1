@@ -8,7 +8,7 @@
 	"Boots Slot" = ["minecraft:leather_boots|50", "minecraft:iron_boots|20", "minecraft:chainmail_boots|20"]
 	"Off Hand Slot" = ["minecraft:ender_pearl|15", "minecraft:totem_of_undying|10", "minecraft:spyglass|20", "minecraft:shield|30", "minecraft:flint_and_steel|30"]
 	#Default true
-	"Should zombies spawn with more armor and tools and more commonly" = true
+	"Should zombies spawn with more armor and tools and more commonly" = false
 	#Default 160
 	"Chance of the zombies spawning with improved equipment, the bigger the number the smaller the chance" = 160
 

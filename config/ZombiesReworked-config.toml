@@ -3,7 +3,7 @@
 	#Default true
 	"Should the zombies use totems of undying?" = true
 	#Default true
-	"Should the zombies use flint and steels?" = true
+	"Should the zombies use flint and steels?" = false
 	#Default true
 	"Should the zombies use ender pearls?" = true
 	#Default true
@@ -18,15 +18,15 @@
 	"Should the villager convert after getting killed by a zombie?" = true
 	#Default 0.2
 	#Range: 0.05 ~ 1.7976931348623157E308
-	"What should be the chance of the player/villager converting to a zombie/zombie villager when getting killed?" = 0.2
+	"What should be the chance of the player/villager converting to a zombie/zombie villager when getting killed?" = 1
 
 ["AI Changes for the vanilla zombies"]
 	#Default true
-	"Should the zombies now be IMMUNE to sunlight damage?" = true
+	"Should the zombies now be IMMUNE to sunlight damage?" = false
 	#Default 10
 	"Number of Zombies Spawning in a Horde" = 10
 	#Default true
-	"Should the zombies break blocks?" = true
+	"Should the zombies break blocks?" = false
 	#Default true
 	"Should zombies perform small sprints when close to the player?" = true
 	#Default 0.15
