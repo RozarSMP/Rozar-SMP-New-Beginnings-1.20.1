@@ -1,6 +1,6 @@
 # Rozar-SMP-New-Beginnings-1.20.1
 we are so back
- 
+
 ## Pack Build & Setup
 This modpack repository structure is not typical, but was what the owners agreed on. There are python scripts to setup the folder for playing from the repository, and for building modpack files for sharing.
 
